@@ -1,4 +1,4 @@
-# 42-Printf
+# 42-ft_printf
 
 Note: The file structure of this project has been modified.
 
