@@ -4,7 +4,7 @@ Note: The file structure of this project has been modified.
 
 In this project, we will be creating a library that contains [`ft_printf()`](src/ft_printf.c), this function will mimic the original [`printf()`](https://man7.org/linux/man-pages/man3/fprintf.3.html).
 
-### Requirements
+# Project Requirements
 
 |     Functions      |                      Description                       |
 | :----------------: | :----------------------------------------------------: |
@@ -19,7 +19,7 @@ In this project, we will be creating a library that contains [`ft_printf()`](src
 - `make fclean` - clean and removes libftprintf.a
 - `make re` - fclean and recompiles
 
-To use the library functions in your code, simply include its' [header](inc/libftprintf.h):
+To use the library functions in your code, simply include its' header([libftprintf.h](inc/libftprintf.h)):
 
 ```
 #include "libftprintf.h"
