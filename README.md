@@ -6,11 +6,11 @@ In this project, we will be creating a library that contains [`ft_printf()`](src
 
 # Project Requirements
 
-|    Requirements    |                             Description                              |
-| :----------------: | :------------------------------------------------------------------: |
-|    Program name    |                           `libftprintf.a`                            |
-|   Turn in files    |              `Makefile`, `*.h`, `*/*.h`, `*.c`, `*/*.c`              |
-| External functions | `malloc`, `free`, `write`, `va_start`, `va_arg`, `va_copy`, `va_end` |
+|    Requirements    |                       Description                        |
+| :----------------: | :------------------------------------------------------: |
+|    Program name    |                     `libftprintf.a`                      |
+|   Turn in files    |            `Makefile, *.h, */*.h, *.c, */*.c`            |
+| External functions | `malloc, free, write, va_start, va_arg, va_copy, va_end` |
 
 # Compilation
 
