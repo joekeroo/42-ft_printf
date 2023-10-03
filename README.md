@@ -6,7 +6,7 @@ In this project, we will be creating a library that contains [`ft_printf()`](src
 
 # Project Requirements
 
-|     Functions      |                      Description                       |
+|    Requirements    |                      Description                       |
 | :----------------: | :----------------------------------------------------: |
 |    Program name    |                     libftprintf.a                      |
 |   Turn in files    |         Makefile, \*.h, \*/\*.h, \*.c, \*/\*.c         |
